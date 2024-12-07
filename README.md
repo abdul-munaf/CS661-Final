@@ -74,7 +74,7 @@ The dataset, derived from the **World Happiness Report 2021**, includes variable
   - Conduct multi-year time-series analysis for trends in happiness.
 
 
-```
+
 
 ## How to Run
 1. **Clone the Repository:**
