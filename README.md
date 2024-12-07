@@ -73,23 +73,7 @@ The dataset, derived from the **World Happiness Report 2021**, includes variable
   - Incorporate datasets on mental health and crime rates.
   - Conduct multi-year time-series analysis for trends in happiness.
 
-## Project Structure
-```
-world-happiness-analysis/
-├── data/
-│   ├── world_happiness_report_2021.csv
-│   ├── processed_world_happiness_dataset.csv
-├── notebooks/
-│   ├── eda.ipynb
-│   ├── ml_modeling.ipynb
-├── src/
-│   ├── preprocessing.py
-│   ├── visualization.py
-│   ├── modeling.py
-├── outputs/
-│   ├── visualizations/
-│   ├── predictions/
-├── README.md
+
 ```
 
 ## How to Run
