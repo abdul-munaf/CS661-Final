@@ -62,7 +62,7 @@ The dataset, derived from the **World Happiness Report 2021**, includes variable
   - Social Support
   - Healthy Life Expectancy
   - Freedom to Make Life Choices
-- **Model Comparison:** Random Forest Regressor showed better performance compared to Linear Regression.
+- **Model Comparison:** Random Forest Regressor performed better than Linear Regression.
 
 ### 6. Recommendations
 - **Policy Suggestions:**
@@ -71,7 +71,7 @@ The dataset, derived from the **World Happiness Report 2021**, includes variable
   - Promote transparency and reduce corruption perceptions.
 - **Future Directions:**
   - Incorporate datasets on mental health and crime rates.
-  - Conduct multi-year time-series analysis for trends in happiness.
+  - Conducted multi-year time-series analysis of trends in happiness.
 
 
 
@@ -87,9 +87,8 @@ The dataset, derived from the **World Happiness Report 2021**, includes variable
    pip install -r requirements.txt
    ```
 3. **Run Notebooks:**
-   - Navigate to the `notebooks` folder and run `eda.ipynb` for EDA or `ml_modeling.ipynb` for machine learning.
-4. **View Outputs:**
-   - Visualizations and predictions are saved in the `outputs` folder.
+   - Navigate to the `notebooks` folder and run `eda.ipynb` 
+
 
 ## Tools and Libraries
 - **Programming Language:** Python
