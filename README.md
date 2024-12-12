@@ -82,11 +82,8 @@ The dataset, derived from the **World Happiness Report 2021**, includes variable
    git clone https://github.com/your-username/world-happiness-analysis.git
    cd world-happiness-analysis
    ```
-2. **Install Dependencies:**
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. **Run Notebooks:**
+
+2. **Run Notebooks:**
    - Navigate to the `notebooks` folder and run `eda.ipynb` 
 
 
